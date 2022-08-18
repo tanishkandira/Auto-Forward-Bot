@@ -17,19 +17,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5575736842:AAFqn2e7GAce7N7YO-tUzGGjQjHKKdul0oE"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "10632913"
     },
     "CHANNEL_ID": {
       "description": "your channel id in format -12352626:-34466(from channel id:to channel id) if you want to give more channels seperate them with white space",
-      "value": ""
+      "value": "-1642275202:-715308537 -1609799713:-715308537"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "b8bdbc4533061b51cadef1ea6056e1a6"
     }
   },
   "addons": [
